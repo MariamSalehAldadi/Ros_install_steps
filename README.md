@@ -50,3 +50,5 @@ With these commands, Rose was downloaded successfully. To make sure, we type the
 ```
 roscore
 ```
+
+![Image1](https://user-images.githubusercontent.com/110326169/182321572-e1c06fbb-fa16-4be0-9d82-109d68407e75.jpg)
